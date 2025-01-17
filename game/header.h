@@ -13,7 +13,7 @@
 #ifndef HEADER_H
 # define HEADER_H
 
-# include ".mlx/mlx.h"
+# include "mlx/mlx.h"
 # include <unistd.h>
 # include <fcntl.h>
 # include <time.h>
