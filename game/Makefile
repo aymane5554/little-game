@@ -6,7 +6,7 @@ OBJS = $(SOURCES:%.c=%.o)
 all : $(NAME)
 
 $(NAME): $(OBJS) $(SHARED_OBJS)
-	$(CC) $(CFLAGS) $(OBJS) -L .mlx -lmlx -lXext -lX11 -lm -o $(NAME)
+	$(CC) $(CFLAGS) $(OBJS) -L mlx -lmlx -lXext -lX11 -lm -o $(NAME)
 
 get_next_line%.o : get_next_line%.c get_next_line.h
 	$(CC) $(CFLAGS) -c $< -o $@
