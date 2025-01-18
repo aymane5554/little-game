@@ -16,12 +16,12 @@ Follow these steps to get the project running locally:
 
 3. Install the required dependencies:
    ```bash
-   npm install
+   make
    ```
 
 4. Run the game:
    ```bash
-   npm start
+   ./exe
    ```
 
 You will now be able to play the game locally in your browser.
