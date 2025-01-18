@@ -11,7 +11,7 @@ Follow these steps to get the project running locally:
 
 2. Navigate into the project directory:
    ```bash
-   cd little-game
+   cd game
    ```
 
 3. Install the required dependencies:
