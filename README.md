@@ -35,4 +35,3 @@ Your goal is to collect all coins and enter the door!
 ## Credits
 
 - Game development framework: [mlx]
-- Special thanks to [Name of Contributor](link to their GitHub or website) for [their contributions].
