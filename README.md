@@ -27,7 +27,6 @@ Follow these steps to get the project running locally:
 ## Usage
 
 - Use the wasd keys to navigate the character.
-- 
 Your goal is to collect all coins and enter the door!
 ## Screenshots
 
