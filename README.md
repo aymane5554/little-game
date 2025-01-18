@@ -23,8 +23,7 @@ Follow these steps to get the project running locally:
    ```bash
    ./exe
    ```
-
-You will now be able to play the game locally in your browser.
+   
 ## Usage
 
 - Use the wasd keys to navigate the character.
