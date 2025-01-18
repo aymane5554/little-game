@@ -31,7 +31,7 @@ Follow these steps to get the project running locally:
 Your goal is to collect all coins and enter the door!
 ## Screenshots
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](./screenshot.png)
 ## Credits
 
 - Game development framework: [mlx]
