@@ -1,5 +1,5 @@
 # Little Game
-A simple 2D game built c and [libft](https://cdn.intra.42.fr/pdf/pdf/136352/en.subject.pdf](https://github.com/aymane5554/mylib), where players navigate through obstacles and try to score the highest.
+## A simple 2D game built c and [libft](https://cdn.intra.42.fr/pdf/pdf/136352/en.subject.pdf](https://github.com/aymane5554/mylib) , where players navigate through obstacles and try to score the highest.
 ## Installation
 
 Follow these steps to get the project running locally:
